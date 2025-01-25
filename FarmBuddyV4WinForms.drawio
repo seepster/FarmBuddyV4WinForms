@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.8">
   <diagram name="Page-1" id="rvxdswPpxdnA73cwBW_b">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Model&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-12" value="Company" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-13" value="Farm" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="178" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-14" value="Field" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="345" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-20" value="&lt;div&gt;Fertilizer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="513" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-21" value="&lt;div&gt;Spray&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-23" value="&lt;div&gt;CompanyID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-24" value="&lt;div&gt;CompanyID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="178" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-26" value="&lt;div&gt;CompanyID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="345" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-27" value="&lt;div&gt;FertilizerID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="513" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-31" value="&lt;div&gt;FarmName&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="178" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-32" value="&lt;div&gt;CompanyName&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-33" value="&lt;div&gt;FarmID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="178" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-34" value="&lt;div&gt;FarmID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="345" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-35" value="&lt;div&gt;FieldID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="345" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-40" value="&lt;div&gt;CompanyID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-41" value="&lt;div&gt;FarmID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-42" value="&lt;div&gt;FieldID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-43" value="&lt;div&gt;SprayID&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-46" value="FieldName" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="345" y="260" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-47" value="&lt;div&gt;FieldHectares&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="345" y="280" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-48" value="FieldRunTimeInMinutes" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="345" y="300" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-51" value="&lt;div&gt;FertilizerName&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="513" y="220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-53" value="FieldName" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-54" value="&lt;div&gt;FieldHectares&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-55" value="FieldRunTimeInMinutes" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-56" value="FieldName" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-57" value="&lt;div&gt;FieldHectares&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-58" value="FieldRunTimeInMinutes" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-59" value="FertilizerChemicalName" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="513" y="240" width="147" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-60" value="&lt;div&gt;FertilizerSolubility&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="513" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-61" value="&lt;div&gt;FertilizerDosageperHa&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="513" y="280" width="147" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-62" value="&lt;div&gt;FertilizerTotalDosage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="513" y="300" width="147" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-63" value="&amp;lt;List&amp;gt;&amp;lt;Fertilizer&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4lTw-KqsmBAIjCPtbyVE-64" value="FieldRunTimeInMinutes" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="420" width="140" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
